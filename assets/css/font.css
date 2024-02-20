@@ -6,12 +6,18 @@
          url('../fonts/archyedt-thin-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('../fonts/archyedt-thin-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/archyedt-thin-webfont.svg#archyedt-thinregular') format('svg'); /* Legacy iOS */
+ section2
+
  section1
+ main
      }
 
 @font-face {
     font-family: font1;
     src: url('fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf');
+ section2
+}
+
 }
 @font-face {
     font-family: font2;
@@ -23,3 +29,4 @@
     font-family: font1;
     src: url('assets/fonts/archyedt-thin-webfont.ttf')
       main
+main
