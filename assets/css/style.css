@@ -1,8 +1,8 @@
-section2
-* {
+
+
 
 *{
-section1
+
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -74,7 +74,7 @@ img {
 	padding-bottom: 22px;
 }
 
- main
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -83,7 +83,7 @@ img {
 a {
     text-decoration: none;
 }
-section2
+
 
 .article1 {
     background-color: #0a22f4;
@@ -217,5 +217,4 @@ img {
 .twin {
     opacity: 30%;
 }
-main
-main
+
