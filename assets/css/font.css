@@ -6,6 +6,7 @@
          url('../fonts/archyedt-thin-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('../fonts/archyedt-thin-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/archyedt-thin-webfont.svg#archyedt-thinregular') format('svg'); /* Legacy iOS */
+ section1
      }
 
 @font-face {
@@ -16,3 +17,9 @@
     font-family: font2;
     src: url('fonts/HELVETICANEUELTGEO-45LIGHTS.ttf');
 }
+
+}
+@font-face {
+    font-family: font1;
+    src: url('assets/fonts/archyedt-thin-webfont.ttf')
+      main
